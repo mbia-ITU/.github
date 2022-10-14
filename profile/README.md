@@ -1,5 +1,5 @@
 ## Hi there 👋
-This organization contain all the projects i've made during my time at ITU, that are publicly available.
+This organization contains all the projects i've made during my time at ITU, that are publicly available.
 
 ## Table of Contents 📋
 
@@ -22,4 +22,8 @@ This organization contain all the projects i've made during my time at ITU, that
 
 #### User experience & web programming
 - Exam: https://github.com/mbia-ITU/UX-exam
+
+
+#### Credits
+Thanks to @avborup for all the inspiration in creating this organization.
 
