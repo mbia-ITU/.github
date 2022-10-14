@@ -14,7 +14,7 @@ This organization contains all the projects i've made during my time at ITU, tha
 - Assignment 3: https://github.com/mbia-ITU/BDSA-assignment-03
 - Assignment 4: https://github.com/mbia-ITU/BDSA-assignment-04
 - Assignment 5: https://github.com/mbia-ITU/BDSA-assignment-05
-- Group Projetct:
+- Group Project:
 - Exam: 
 
 #### First-year Project: Map of Denmark. Visualization, Navigation, Searching, and Route Planning
