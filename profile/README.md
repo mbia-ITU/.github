@@ -18,5 +18,8 @@ This organization contain all the projects i've made during my time at ITU, that
 - Exam: 
 
 #### First-year Project: Map of Denmark. Visualization, Navigation, Searching, and Route Planning
+- Exam: https://github.com/mbia-ITU/first-year-project
 
+#### User experience & web programming
+- Exam: https://github.com/mbia-ITU/UX-exam
 
