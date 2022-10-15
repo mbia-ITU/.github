@@ -8,7 +8,7 @@ This organization contains all the projects i've made during my time at ITU, tha
 - Hand In 2: https://github.com/mbia-ITU/DISYS-HandIn-2
 
 #### Analysis, Design and Software Architecture
-- Assignment 0: https://github.com/mbia-ITU/BDSA-assignment-0
+- Assignment 0: https://github.com/mbia-ITU/BDSA-assignment-00
 - Assignment 1: https://github.com/mbia-ITU/BDSA-assignment-01
 - Assignment 2: https://github.com/mbia-ITU/BDSA-assignment-02
 - Assignment 3: https://github.com/mbia-ITU/BDSA-assignment-03
