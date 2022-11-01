@@ -6,6 +6,7 @@ This organization contains all the projects i've made during my time at ITU, tha
 #### Distributed Systems
 - Hand In 1: https://github.com/mbia-ITU/DISYS-HandIn-1
 - Hand In 2: https://github.com/mbia-ITU/DISYS-HandIn-2
+- ChittyChatty (Hand In 3): https://github.com/mbia-ITU/DISYS-chittyChatty
 
 #### Analysis, Design and Software Architecture
 - Assignment 0: https://github.com/mbia-ITU/BDSA-assignment-00
