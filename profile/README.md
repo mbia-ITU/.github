@@ -9,6 +9,7 @@ This organization contains all the projects i've made during my time at ITU, tha
 - ChittyChatty (Hand In 3): https://github.com/mbia-ITU/DISYS-chittyChatty
 - Hand In 4: https://github.com/mbia-ITU/DISYS-HandIn-4
 - Hand In 5: https://github.com/mbia-ITU/DISYS-HandIn-5
+- Hand In 6: https://github.com/mbia-ITU/DISYS-HandIn-6
 
 #### Analysis, Design and Software Architecture
 - Assignment 0: https://github.com/mbia-ITU/BDSA-assignment-00
@@ -18,7 +19,6 @@ This organization contains all the projects i've made during my time at ITU, tha
 - Assignment 4: https://github.com/mbia-ITU/BDSA-assignment-04
 - Assignment 5: https://github.com/mbia-ITU/BDSA-assignment-05
 - Group Project: https://github.com/mikkel080/BDSA-GitInsight
-- Exam: 
 
 #### First-year Project: Map of Denmark. Visualization, Navigation, Searching, and Route Planning
 - Exam: https://github.com/mbia-ITU/first-year-project
