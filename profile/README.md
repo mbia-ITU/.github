@@ -3,6 +3,12 @@ This organization contains all the projects i've made during my time at ITU, tha
 
 ## Table of Contents 📋
 
+#### Second-year Project: Project work in larger groups
+
+
+#### Functional Programmming
+- Assignment 1: 
+
 #### Distributed Systems
 - Hand In 1: https://github.com/mbia-ITU/DISYS-HandIn-1
 - Hand In 2: https://github.com/mbia-ITU/DISYS-HandIn-2
