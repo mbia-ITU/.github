@@ -7,7 +7,8 @@ This organization contains all the projects i've made during my time at ITU, tha
 
 
 #### Functional Programmming
-- Assignment 1: 
+- Assignment 1: https://github.com/mbia-ITU/FP-Assignment1
+- Assignment 1: https://github.com/mbia-ITU/FP-Assignment2
 
 #### Distributed Systems
 - Hand In 1: https://github.com/mbia-ITU/DISYS-HandIn-1
