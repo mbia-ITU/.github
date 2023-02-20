@@ -4,7 +4,7 @@ This organization contains all the projects i've made during my time at ITU, tha
 ## Table of Contents 📋
 
 #### Second-year Project: Project work in larger groups
-
+- PACE 2 (J+D Forecasting): 🔒
 
 #### Functional Programmming
 - Assignment 1: https://github.com/mbia-ITU/FP-Assignment1
