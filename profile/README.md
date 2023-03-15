@@ -12,6 +12,7 @@ This organization contains all the projects i've made during my time at ITU, tha
 - Assignment 3: https://github.com/mbia-ITU/FP-Assignment3
 - Assignment 4: https://github.com/mbia-ITU/FP-Assignment4
 - Assignment 5: https://github.com/mbia-ITU/FP-Assignment5
+- Assignment 6: https://github.com/mbia-ITU/FP-Assignment6
 
 #### Distributed Systems
 - Hand In 1: https://github.com/mbia-ITU/DISYS-HandIn-1
