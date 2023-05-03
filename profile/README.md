@@ -14,6 +14,7 @@ This organization contains all the projects i've made during my time at ITU, tha
 - Assignment 5: https://github.com/mbia-ITU/FP-Assignment5
 - Assignment 6: https://github.com/mbia-ITU/FP-Assignment6
 - Assignment 7: https://github.com/mbia-ITU/FP-Assignment7
+- Scrabble Project: 
 
 #### Distributed Systems
 - Hand In 1: https://github.com/mbia-ITU/DISYS-HandIn-1
