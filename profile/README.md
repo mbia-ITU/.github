@@ -2,6 +2,8 @@
 This organization contains all the projects i've made during my time at ITU, that are publicly available.
 
 ## Table of Contents 📋
+#### Programs as data
+- Assignment 1: https://github.com/mbia-ITU/PSD-Assignment1
 
 #### Second-year Project: Project work in larger groups
 - PACE 2 (J+D Forecasting): 🔒
