@@ -1,5 +1,5 @@
 ## Hi there 👋
-This organization contains all the projects i've made during my time at ITU, that are publicly available.
+This organization contains all the projects I've made during my time at ITU, that are publicly available.
 
 ## Table of Contents 📋
 #### Programs as data
