@@ -1,7 +1,11 @@
 ## Hi there 👋
 This organization contains all the projects I've made during my time at ITU, both individually or as a group.
+Assignment with a padlock are locked behind ITU's private github.
 
 ## Table of Contents 📋
+#### Operating Systems & C
+- Assignment 1 (Clab): 🔒
+  
 #### Programs as data
 - Assignment 1: https://github.com/mbia-ITU/PSD-Assignment1
 
