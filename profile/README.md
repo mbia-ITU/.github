@@ -9,6 +9,7 @@ Assignment with a padlock are locked behind ITU's private github.
 #### Programs as data
 - Assignment 1: https://github.com/mbia-ITU/PSD-Assignment1
 - Assignment 2: https://github.com/mbia-ITU/PSD-Assignment2
+- Assignment 3: https://github.com/mbia-ITU/PSD-Assignment3
 
 #### Second-year Project: Project work in larger groups
 - PACE 2 (J+D Forecasting): 🔒
