@@ -4,7 +4,7 @@ Assignment with a padlock are locked behind ITU's private github.
 
 ## Table of Contents 📋
 #### Operating Systems & C
-- Assignment 1 (Clab): 🔒
+- Assignment 1 (Clab): https://github.com/mbia-ITU/OSC-clab
 - Assignment 2 (asmlab): 🔒
   
 #### Programs as data
