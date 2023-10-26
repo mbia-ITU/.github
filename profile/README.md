@@ -17,6 +17,11 @@ Assignment with a padlock are locked behind ITU's private github.
 - Assignment 6: https://github.com/mbia-ITU/PSD-Assignment6
 - Assignment 7: https://github.com/mbia-ITU/PSD-Assignment7
 - Assignment 8: https://github.com/mbia-ITU/PSD-Assignment8
+- Assignment 9: https://github.com/mbia-ITU/PSD-Assignment9
+- Assignment 10: https://github.com/mbia-ITU/PSD-Assignment10
+- Assignment 11: https://github.com/mbia-ITU/PSD-Assignment11
+- Assignment 12: https://github.com/mbia-ITU/PSD-Assignment12
+- Assignment 13: https://github.com/mbia-ITU/PSD-Assignment13
 
 #### Second-year Project: Project work in larger groups
 - PACE 2 (J+D Forecasting): 🔒
