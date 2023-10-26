@@ -6,7 +6,7 @@ Assignment with a padlock are locked behind ITU's private github.
 #### Operating Systems & C
 - Assignment 1 (Clab): https://github.com/mbia-ITU/OSC-clab
 - Assignment 2 (asmlab): 🔒
-- Assignment 3 (prflab): 🔒
+- Assignment 3 (prflab): https://github.com/mbia-ITU/OSC-prflab
   
 #### Programs as data
 - Assignment 1: https://github.com/mbia-ITU/PSD-Assignment1
