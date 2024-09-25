@@ -5,6 +5,7 @@ Assignment with a padlock are locked behind ITU's private github.
 ## Table of Contents 📋
 #### Security
 - Assignment 1: https://github.com/mbia-ITU/SEC-miniproject1
+- Assignment 2: https://github.com/mbia-ITU/SEC-miniproject2
 
 #### Operating Systems & C
 - Assignment 1 (Clab): https://github.com/mbia-ITU/OSC-clab
