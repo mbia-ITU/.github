@@ -43,6 +43,7 @@ Assignment with a padlock are locked behind ITU's private github.
 
 #### Database Systems
 - Homework 1: https://github.com/mbia-ITU/DBS1
+- Homework 2: https://github.com/mbia-ITU/DBS2
 
 #### Distributed Systems
 - Hand In 1: https://github.com/mbia-ITU/DISYS-HandIn-1
