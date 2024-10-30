@@ -6,6 +6,7 @@ Assignment with a padlock are locked behind ITU's private github.
 #### Security
 - Assignment 1: https://github.com/mbia-ITU/SEC-miniproject1
 - Assignment 2: https://github.com/mbia-ITU/SEC-miniproject2
+- Assignment 3: https://github.com/mbia-ITU/SEC-miniproject3
 
 #### Operating Systems & C
 - Assignment 1 (Clab): https://github.com/mbia-ITU/OSC-clab
@@ -44,6 +45,7 @@ Assignment with a padlock are locked behind ITU's private github.
 #### Database Systems
 - Homework 1: https://github.com/mbia-ITU/DBS1
 - Homework 2: https://github.com/mbia-ITU/DBS2
+- Homework 3: https://github.com/mbia-ITU/DBS3
 
 #### Distributed Systems
 - Hand In 1: https://github.com/mbia-ITU/DISYS-HandIn-1
